@@ -1,10 +1,10 @@
 # Introduction-to-Data-Science
-University of Michigan course | Tabular data, clean it, manipulate it, and run basic inferential statistical analyses.
+University of Michigan course | Tabular data, clean, manipulate, and run basic inferential statistical analyses with *pandas* and *numpy* 
 
 ## Projects:
 
-* Hypothesis Testing on University housing prices across United States using data from Zillow, Wikipedia, Bureau of Economic Analysis, US Department of Commerce
+* **Hypothesis Testing** on University housing prices across United States using data from Zillow, Wikipedia, Bureau of Economic Analysis, US Department of Commerce
 
-* World Energy Analysis
+* **World Energy Analysis**
 
-* Olympic medals 
+* **Olympic medals** 
